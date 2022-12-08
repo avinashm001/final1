@@ -20,7 +20,7 @@ def add_bg_from_url():
          f"""
          <style>
          .stApp {{
-             background-image: url("https://www.shutterstock.com/image-illustration/abstract-modern-background-design-flyers-600w-1889075287.jpg");
+             background-image: url("https://ftopx.com/275082/0_0.jpg");
              background-attachment: fixed;
              background-size: cover
          }}
